@@ -1,0 +1,6 @@
+@WebShellSort_HostAddress = http://localhost:5062
+
+GET {{WebShellSort_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

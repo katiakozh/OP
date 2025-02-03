@@ -1,0 +1,14 @@
+D:\Projects\C#\WebShellSort\ConsoleClientSort\bin\Release\net8.0\ConsoleClientSort.exe
+D:\Projects\C#\WebShellSort\ConsoleClientSort\bin\Release\net8.0\ConsoleClientSort.deps.json
+D:\Projects\C#\WebShellSort\ConsoleClientSort\bin\Release\net8.0\ConsoleClientSort.runtimeconfig.json
+D:\Projects\C#\WebShellSort\ConsoleClientSort\bin\Release\net8.0\ConsoleClientSort.dll
+D:\Projects\C#\WebShellSort\ConsoleClientSort\bin\Release\net8.0\ConsoleClientSort.pdb
+D:\Projects\C#\WebShellSort\ConsoleClientSort\obj\Release\net8.0\ConsoleClientSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\WebShellSort\ConsoleClientSort\obj\Release\net8.0\ConsoleClientSort.AssemblyInfoInputs.cache
+D:\Projects\C#\WebShellSort\ConsoleClientSort\obj\Release\net8.0\ConsoleClientSort.AssemblyInfo.cs
+D:\Projects\C#\WebShellSort\ConsoleClientSort\obj\Release\net8.0\ConsoleClientSort.csproj.CoreCompileInputs.cache
+D:\Projects\C#\WebShellSort\ConsoleClientSort\obj\Release\net8.0\ConsoleClientSort.dll
+D:\Projects\C#\WebShellSort\ConsoleClientSort\obj\Release\net8.0\refint\ConsoleClientSort.dll
+D:\Projects\C#\WebShellSort\ConsoleClientSort\obj\Release\net8.0\ConsoleClientSort.pdb
+D:\Projects\C#\WebShellSort\ConsoleClientSort\obj\Release\net8.0\ConsoleClientSort.genruntimeconfig.cache
+D:\Projects\C#\WebShellSort\ConsoleClientSort\obj\Release\net8.0\ref\ConsoleClientSort.dll
